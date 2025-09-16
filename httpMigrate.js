@@ -1,5 +1,5 @@
 function httpMigration() {
-    const domain = "factoryidle.com";
+    const domain = "cdn.jsdelivr.net/gh/arlxsdee-tech/factory@740a7100460e3b6d31bc253669533fe68da32344";
     const localstorageExistenceCheckKey = "FactoryIdleUserHash"
     const migrateHtmlFile = "httpMigrate.html"
     const https = "https:"
@@ -61,3 +61,4 @@ function httpMigration() {
         }
     }
 }
+
